@@ -1,6 +1,6 @@
-const Msg2 = () =>
+const Msg2 = (props) =>
     {
-        return <p>This is Component is created for practice</p>
+        return <p>This Message from {props.name} and his last name {props.lastname}</p>
     }
 
 export default Msg2;
