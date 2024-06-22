@@ -5,5 +5,4 @@ class Message extends Component {
         return <h1>This is Class Component FROM {this.props.name} Profession is {this.props.profession}</h1>
     }
 }
-
 export default Message;
