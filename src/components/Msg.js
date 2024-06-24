@@ -7,5 +7,4 @@ class Msg  extends Component
        return  <h1>Lingoudab Patil</h1>
     }
 }
-
 export default Msg;
