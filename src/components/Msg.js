@@ -2,7 +2,7 @@ import { Component } from "react";
 
 class Msg  extends Component
 {
-    render()
+    render() 
     {
        return  <h1>Lingoudab Patil</h1>
     }
