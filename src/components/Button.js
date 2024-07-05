@@ -8,7 +8,7 @@ const Button = ({ text, onClick, type = 'button', className = '' }) => {
       {text}
     </button>
   );
-};
+}; 
 
 Button.propTypes = {
   text: PropTypes.string.isRequired,
