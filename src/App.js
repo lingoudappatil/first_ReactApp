@@ -6,7 +6,7 @@ import Msg2 from './components/Msg2';
 import Button from './components/Button';
  
 function App() { 
-  return (
+  return ( 
     <div className="App">
       <Hello/>
       <Message name="Lingouda" profession="Software Engineer"/>
