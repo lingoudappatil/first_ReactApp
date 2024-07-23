@@ -1,5 +1,5 @@
 import { Component } from "react";
-
+ 
 class Msg  extends Component
 {
     render() 
